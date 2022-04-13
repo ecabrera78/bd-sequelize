@@ -1,0 +1,2 @@
+# bd-sequelize
+Learning Sequelize
